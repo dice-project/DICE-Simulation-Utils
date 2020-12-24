@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site
-      associateSitesURL="http://dice-project.github.io/DICE-Simulation/updates/associateSites.xml">
+      associateSitesURL="http://dice-project.github.io/DICE-Simulation-Utils/updates/associateSites.xml">
    <description name="DICE Simulation Utils" url="http://dice-project.github.io/DICE-Simulation-Utils/updates">
       Optional utility plugins for the DICE-Simulation component
    </description>
