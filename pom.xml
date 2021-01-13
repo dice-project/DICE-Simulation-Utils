@@ -20,7 +20,7 @@
 		<jboss.tycho-plugins.version>1.6.0</jboss.tycho-plugins.version>
 		<org.eclipse.acceleo.maven.version>3.5.0-SNAPSHOT</org.eclipse.acceleo.maven.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<site.name>DICE Simulation Tool Utils</site.name>
+		<site.name>DICE Simulation Utils</site.name>
 		<target.version>2020-12</target.version>
 	</properties>
 	<groupId>es.unizar.disco.simulation.utils</groupId>
