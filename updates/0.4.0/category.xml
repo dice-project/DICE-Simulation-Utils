@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright (c) 2020 DisCo Group - Universidad de Zaragoza.
+   
+    This program and the accompanying materials
+    are made available under the terms of the Eclipse Public License 1.0
+    which accompanies this distribution, and is available at
+    https://www.eclipse.org/legal/epl-1.0/
+   
+    SPDX-License-Identifier: EPL-1.0
+   
+    Contributors:
+        Abel Gómez
+        Ignacio Requeno
+        Diego Pérez
+ -->
+<site>
+   <feature id="com.abstratt.eclipsegraphviz.feature" url="features/com.abstratt.eclipsegraphviz.feature_2.9.0.jar" version="2.9.0">
+      <category name="DICE - Simulation Utils (Optional 3rd party features)"/>
+   </feature>
+   <bundle id="es.unizar.disco.pnml.utils">
+      <category name="DICE - Simulation Utils"/>
+   </bundle>
+   <category-def name="DICE - Simulation Utils" label="DICE - Simulation Utils"/>
+   <category-def name="DICE - Simulation Utils (Optional 3rd party features)" label="DICE - Simulation Utils (Optional 3rd party features)"/>
+</site>
